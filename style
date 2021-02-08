@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+ <html lang="en">
+
+body {
+background-color: blue;
+}
+   <h1>
+     <title>League Of Legends</title>
+   </h1>
+
+   <ul>
+   <li>Description</li>
+   <li>Benefits</li>
+   <li>Downsides</li>
+   </ul>
+   
+   <body>
+     <h2>
+     Description
+     </h2>
+     <p>League of Legends is a 5v5 multiplayer online video game. There are more than 150 playable characters to choose from that all have their own unique
+     abilities. League of Legends promotes strategy and quick thinking. Each team will have 5 roles that the players choose before the match starts. The goal of 
+     the game is to work with your team to destroy the opponents base. The team that is first to do this wins.
+     </p>
+      <li><a href=https://en.wikipedia.org/wiki/League_of_Legends>Website</a></li>
+   </body>
+
+   <body>
+     <h2>
+     Benefits
+     </h2>
+     <p>League of Legends requires teamwork and synergy. This means that playing with friends is the best way to play. Gathering a group of 5 and queuing up can 
+     serve as a fun way to spend time with friends.
+     </p>
+      <li><a href=https://en.wikipedia.org/wiki/Teamwork>Website</a></li>
+   </body>
+   
+   <body>
+     <h2>
+     Downsides
+     </h2>
+     <p>Just like any other competitive video game, addictions can easily be formed. League of Legends is no exception to this. Many players end up getting caught
+     up in League of Legends ranked system, spending hours each day playing. As a result, things like sleep loss, lack of exercise, and decreasing quality of diet 
+     may take place.
+     </p>
+      <li><a href=https://en.wikipedia.org/wiki/Video_game_addiction>Website</a></li>
+   </body>
+  
+ </html>
