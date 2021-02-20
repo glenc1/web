@@ -1,1 +1,13 @@
+h2 {
+  font-size: large;
+  color: red;
+}
 
+body {
+  background-color: orange;
+}
+
+ul {
+  list-style-type: circle;
+}
+  
