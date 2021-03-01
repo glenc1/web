@@ -20,15 +20,14 @@ ul {
 
 li {
   float: left;
+  color: White;
 }
 
 li a {
   display: block;
-  color: DarkSlateGray;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  border-right: 1px solid #bbb;
 }
 
 img {
