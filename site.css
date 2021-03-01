@@ -21,3 +21,8 @@ h3 {
     solid {border-style: solid;}
   color: DarkSlateGrey;
 }
+
+img {
+  width: 50%;
+  height: auto;
+}
