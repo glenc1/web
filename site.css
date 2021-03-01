@@ -9,13 +9,15 @@ h1 {
 }
 
 body {
-  background-color: lightSlateGrey;
+  background-color: LightSlateGrey;
 }
 
 ul {
   list-style-type: circle;
 }
 
-img { 
+h3 {
   text-align: center
+    solid {border-style: solid;}
+  color: DarkSlateGrey;
 }
