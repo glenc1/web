@@ -1,10 +1,11 @@
 h2 {
   font-size: large;
   color: red;
+  text-align: center 
 }
 
 body {
-  background-color: orange;
+  background-color: lightSlateGrey;
 }
 
 ul {
