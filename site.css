@@ -14,6 +14,7 @@ body {
 
 ul {
   list-style-type: circle;
+  background-color: DarkSlateGrey;
 }
 
 img {
