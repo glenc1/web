@@ -15,6 +15,11 @@ body {
 ul {
   list-style-type: circle;
   background-color: DarkSlateGrey;
+  text-align: center
+}
+
+li {
+  float: left;
 }
 
 img {
