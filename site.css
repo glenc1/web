@@ -58,3 +58,6 @@ li a:hover {
   background-color: #F0F8FF;
 }
 
+li {
+  border-right: 1px solid #008B8B;
+}
