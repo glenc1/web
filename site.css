@@ -36,7 +36,9 @@ li a {
   text-decoration: none;
 }
 
-img {
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
-  height: auto;
 }
