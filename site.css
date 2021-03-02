@@ -38,6 +38,8 @@ ul {
   overflow: hidden;
   background-color: #ADD8E6;
   text-align: center;
+  position: sticky;
+  top: 0;
 }
 
 li {
@@ -65,3 +67,5 @@ li {
 li:last-child {
   border-right: none;
 }
+
+
