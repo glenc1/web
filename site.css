@@ -53,6 +53,10 @@ li {
   border-right: 1px solid #008B8B;
 }
 
+.active {
+  background-color: #F0F8FF;
+}
+
 li:last-child {
   border-right: none;
 }
@@ -65,8 +69,4 @@ li a {
 
 li a:hover:not(.active) {
   background-color: #00CED1;
-}
-
-.active {
-  background-color: #F0F8FF;
 }
