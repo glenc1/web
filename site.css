@@ -25,23 +25,6 @@ img {
   width: 50%;
 }
 
-li {
-  display: inline;
-}
-
-li a {
-  display: block;
-  padding: 20px;
-}
-  
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: ##DAA520;
-}
-
 p {
   margin: 35px;
   font-family: Arial, Helvetica, sans-serif;
