@@ -47,13 +47,17 @@ li {
   border-right: 1px solid #008B8B;
 }
 
+li:last-child {
+  border-right: none;
+}
+
 li a {
   display: block;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-li a:hover {
+li a:hover:not(.active) {
   background-color: #F0FFFF;
 }
 
@@ -61,8 +65,5 @@ li a:hover {
   background-color: #F0F8FF;
 }
 
-li:last-child {
-  border-right: none;
-}
 
 
