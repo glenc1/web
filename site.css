@@ -45,6 +45,9 @@ ul {
 li {
   display: inline-block;
   border-right: 1px solid #008B8B;
+  .currentLink {
+   color: #640200;
+   background-color: #F0F8FF;
 }
 
 li:last-child {
@@ -60,10 +63,3 @@ li a {
 li a:hover:not(.active) {
   background-color: #00CED1;
 }
-
-.active {
-  background-color: #F0F8FF;
-}
-
-
-
