@@ -26,6 +26,7 @@ img {
 }
 
 p {
+  text-align: center
   margin: 35px;
   font-family: Arial, Helvetica, sans-serif;
 }
