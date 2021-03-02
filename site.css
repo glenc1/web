@@ -14,27 +14,8 @@ h4 {
   text-decoration: underline;
 }
 
-
 body {
   background-color: LightSlateGrey;
-}
-
-ul {
-  list-style-type: circle;
-  background-color: DarkSlateGrey;
-  text-align: center
-}
-
-li {
-  float: left;
-  color: White;
-}
-
-li a {
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
 }
 
 img {
@@ -42,4 +23,22 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+li {
+  display: inline;
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 10px;
+  background-color: ##DAA520;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
