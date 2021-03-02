@@ -13,6 +13,12 @@ h4 {
   text-align: center
 }
 
+h5 {
+  font-size: large;
+  text-align: center
+  font-weight: bold;
+}
+
 body {
   background-color: #5F9EA0;
 }
