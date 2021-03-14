@@ -1,0 +1,31 @@
+<table>
+    <thead>
+        <tr>
+            <th>n</th>
+            <th>n^2</th>
+            <th>sqrt n</th>
+         </tr>
+    </thead>
+    <tbody>
+
+
+
+
+        <tr>
+            <td> 1 </td>
+            <td> 1 </td>
+            <td> 1.0 </td>
+        </tr>
+        
+
+
+        <tr>
+            <td> 2 </td>
+            <td> 4 </td>
+            <td> 1.4142135623730951 </td>
+        </tr>
+        
+
+
+    </tbody>
+</table>
