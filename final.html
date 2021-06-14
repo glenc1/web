@@ -37,6 +37,7 @@ amount of words that were typed correctly with proper capitalization and punctua
 <ol>
   <li>First, start by copying and pasting the python code from the project link into Thonny.</li>
   <li>To start, press run.</li>
+  <li>For a better user experience, expand the size of the shell so that you are able to see all of the words at once.</li>
   <li>Begin typing. Do not begin with a space.</li>
   <li>Type as many words as you can.</li>
   <li>You do not need to include commas. Just type out the words seperated by spaces.</li>
@@ -52,7 +53,16 @@ amount of words that were typed correctly with proper capitalization and punctua
   
 <h2>How It Works</h2>
   
-<p></p>
+<p>
+This project works by using data from a csv file that contains many generic everyday words. The code will read the file and randomly order each word in the file. 
+All of these words are then stored into a large list. Next, the code will ask for the user's input and start a stopwatch counting the starting time and the ending time.
+The amount of time passed is then calculated by subtracting the ending time from the starting time. When the user finishes typing, a new list containing all of the
+words that the user typed will be created. Following this, the code will compare the original list of the randomly generated words to the new list of user input words.
+For every word that is matching between the two lists, one point will be added to the score. This is the amount of words that were typed correctly. Next, the amount of words
+that were typed correctly, multiplied by sixty, will be divided by the amount of time passed. This will calculate the user's words per minute score (WPM). The user will
+be presented with the option to play again. Each score will be counter and stored in a list. When the user does not want to try another test again, a graph showcasing their
+scores and number of tests will appear.
+</p>
   
 <h2>Files</h2>
   
